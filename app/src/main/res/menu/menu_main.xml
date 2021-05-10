@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/menu_search"
+          android:icon="@drawable/ic_menu_search"
+          app:showAsAction="always"
+          android:title="Search" />
+    <group
+        android:id="@+id/actions_more">
+        <item
+            android:id="@+id/action_new_group"
+            android:title="New Group"/>
+        <item
+            android:id="@+id/action_new_broadcast"
+            android:title="New BroadCast"/>
+        <item
+            android:id="@+id/action_cu_web"
+            android:title="ChatsUp Web"/>
+        <item
+            android:id="@+id/action_starred_messages"
+            android:title="Starred Messages"/>
+        <item
+            android:id="@+id/action_settings"
+            android:title="Settings"/>
+
+    </group>
+
+
+</menu>

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "780161593201",
+    "project_id": "chatsup-b7146",
+    "storage_bucket": "chatsup-b7146.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780161593201:android:4eafa742b466ab5e1210d0",
+        "android_client_info": {
+          "package_name": "aplication.codewithdeev.chatsup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "780161593201-8392pbo9e29qkbomamiq1mf6p70kmu6f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "aplication.codewithdeev.chatsup",
+            "certificate_hash": "f807d448818e3956cbe16145b6f33a997c75ee67"
+          }
+        },
+        {
+          "client_id": "780161593201-gjhqd8ft0da3gois99mlcksn6lgrmbm6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSGf8JmJb3L7yscVsj_tyMbQkzUnY7AcU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "780161593201-gjhqd8ft0da3gois99mlcksn6lgrmbm6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
